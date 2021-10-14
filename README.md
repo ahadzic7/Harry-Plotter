@@ -1,4 +1,4 @@
-# My Simple Plotter
+# Harry Plotter
 
 Projekat rađen u sklopu predmeta "Ugradbeni sistemi" kod profesora dr. sc. Samima Konjicije.
 
