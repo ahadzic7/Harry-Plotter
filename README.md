@@ -4,7 +4,7 @@ Projekat rađen u sklopu predmeta "Ugradbeni sistemi" kod profesora dr. sc. Sami
 
 Radi se o programu za ugradbeni sistem koji iscrtva zadane funkcije i signale na LCD ekranu u zavisnosti od parametara koji se zadaju putem potenciometara. Pored crtanja unaprijed zadanih funkcija moguce je interpolirati funkciju koja se zadaje putem tacaka preko ekrana osjetljivog na dodir.
 
-Prikaz rada na [linku](https://www.youtube.com/watch?v=UZJlwY9l7bY&t=155s&ab_channel=UgradbeniSistemi).
+Prikaz rada na [linku](https://www.youtube.com/watch?v=UZJlwY9l7bY&ab_channel=UgradbeniSistemi).
 
 
 <p align="center">
