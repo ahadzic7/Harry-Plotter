@@ -1,7 +1,6 @@
 //Faculty of Electrical Engineering Sarajevo
 //My simple plotter
 //Armin Hadzic
-//Nikola Sokolovic
 
 #include "mbed.h"
 #include "stm32f413h_discovery_ts.h"
